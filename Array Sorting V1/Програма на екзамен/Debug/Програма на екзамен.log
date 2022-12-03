@@ -1,0 +1,40 @@
+﻿  Програма на екзамен.cpp
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(364,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(411): message : see reference to function template instantiation 'T show_the_array<int>(const int,T *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(417): message : see reference to function template instantiation 'void min_max_element_of_massif<int>(const int,T *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(83,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(126,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(430): message : see reference to function template instantiation 'void bubble_sorting<int>(const int,T *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(155,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(438): message : see reference to function template instantiation 'void selection_sorting<int>(const int,T *)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(160,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(113): message : see reference to function template instantiation 'void handle_how_many_numvber<T>(const int,T *,int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Програма на екзамен\Програма на екзамен.cpp(424): message : see reference to function template instantiation 'void how_many_number<int>(T *,const int)' being compiled
+          with
+          [
+              T=int
+          ]
+  Програма на екзамен.vcxproj -> C:\Users\ursul\OneDrive\Робочий стіл\Else folders\Folders\Програма на екзамен\Debug\Програма на екзамен.exe
